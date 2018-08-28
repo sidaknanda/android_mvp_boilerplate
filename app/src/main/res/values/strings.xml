@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mvp App</string>
+    <string name="api_default_error">Something wrong happened!</string>
+</resources>
